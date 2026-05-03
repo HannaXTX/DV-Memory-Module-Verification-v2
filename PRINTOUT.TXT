@@ -1,0 +1,42 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP2_Full64; Runtime version T-2022.06-SP2_Full64;  May  3 17:01 2026
+*Verdi* Loading libsscore_vcs202206.so
+FSDB Dumper for VCS, Release Verdi_T-2022.06-SP2, Linux x86_64/64bit, 11/22/2022
+(C) 1996 - 2022 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'waves.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+TIME=350 ADDR=3328 IN=a9 OUT=a9 EXP=a9
+TIME=550 ADDR=6ddf IN=b8 OUT=b8 EXP=b8
+TIME=750 ADDR=fcb8 IN=ee OUT=ee EXP=ee
+TIME=950 ADDR=e011 IN=aa OUT=aa EXP=aa
+TIME=1150 ADDR=b45c IN=ab OUT=1ab EXP=1ab
+TIME=1350 ADDR=4222 IN=b4 OUT=b4 EXP=b4
+TIME=1550 ADDR=d47 IN=f9 OUT=f9 EXP=f9
+TIME=1750 ADDR=7119 IN=1f OUT=11f EXP=11f
+TIME=1950 ADDR=c3c2 IN=f6 OUT=f6 EXP=f6
+TIME=2150 ADDR=ccd1 IN=1f OUT=11f EXP=11f
+TIME=2350 ADDR=e2d2 IN=f5 OUT=f5 EXP=f5
+TIME=2550 ADDR=402e IN=55 OUT=55 EXP=55
+TIME=2750 ADDR=c2c5 IN=2b OUT=2b EXP=2b
+TIME=2950 ADDR=c8ee IN=13 OUT=113 EXP=113
+TIME=3150 ADDR=c439 IN=7d OUT=7d EXP=7d
+TIME=3350 ADDR=6224 IN=5f OUT=5f EXP=5f
+TIME=3550 ADDR=5ca2 IN=96 OUT=96 EXP=96
+TIME=3750 ADDR=6150 IN=99 OUT=99 EXP=99
+TIME=3950 ADDR=4700 IN=19 OUT=119 EXP=119
+TIME=4150 ADDR=5c88 IN=cb OUT=1cb EXP=1cb
+TIME=4350 ADDR=6ffa IN=2 OUT=102 EXP=102
+TIME=4550 ADDR=637 IN=f2 OUT=1f2 EXP=1f2
+TIME=4750 ADDR=a420 IN=18 OUT=18 EXP=18
+TIME=4950 ADDR=f7b9 IN=97 OUT=197 EXP=197
+TIME=5150 ADDR=2fea IN=b4 OUT=b4 EXP=b4
+TIME =                 5250, ERROR =           0
+$finish called from file "./verif/prog_test.sv", line 84.
+$finish at simulation time                 5250
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5250
+CPU Time:      0.410 seconds;       Data structure size:   0.0Mb
+Sun May  3 17:01:38 2026
